@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WvvCN2eZFKgNeG9teQF8plDsUk9yiiK/EMzZKf4CE3k=",
+  "Source": "DummyJsonMiddleware",
+  "BasePath": "_content/DummyJsonMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
